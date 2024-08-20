@@ -46,7 +46,7 @@ This is a simple Tic-Tac-Toe game implemented using Python and the Tkinter libra
 
 ## Contributors
 
-This project is maintained by ahammadnfiz@outlook.com.
+This project is maintained by praveenkumaru@gmail.com.
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
